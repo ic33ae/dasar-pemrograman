@@ -1,0 +1,1 @@
+print("Selamat "*3)
