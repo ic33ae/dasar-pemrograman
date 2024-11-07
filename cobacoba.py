@@ -1,0 +1,1 @@
+print("yaudah ini coba-coba aja")
